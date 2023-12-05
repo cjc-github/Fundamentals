@@ -32,3 +32,10 @@
 
 `likely`、`unlikely`等
 
+
+
+5、C代码调用C++代码
+
++ 将C代码封装起来，作为库来调用
+
+[案例demo1](./c_invoke_cpp/demo1/readme_zh.md)
