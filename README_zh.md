@@ -31,7 +31,7 @@
 
 
 
-[getopt()函数文档跳转](Command-line_argument_parsing/getopt_c/getopt_usage.md)
+[getopt()函数文档跳转](/Tips/1.argparse/getopt_c/getopt_usage.md)
 
 
 
@@ -55,8 +55,7 @@
 
 ## 5. C代码调用C++代码
 
-+ 将C代码封装起来，作为库来调用
-
++ 将C代码封装起来，作为库来调用\
 [案例demo1](./c_invoke_cpp/demo1/readme_zh.md)
 
 
@@ -70,6 +69,6 @@
 
 ### 2）c++语言的grpc
 
-[案例](/Tips/6.grpc/cpp/example1/Readme_zh.md)
-[cmake案例](/Tips/6.grpc/cpp/example2/Readme_zh.md)
+[案例](/Tips/6.grpc/cpp/example1/Readme_zh.md)\
+[cmake案例](/Tips/6.grpc/cpp/example2/Readme_zh.md)\
 [makefile案例](/Tips/6.grpc/cpp/example3/readme_zh.md)
