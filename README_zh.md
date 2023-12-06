@@ -71,4 +71,6 @@
 
 [案例](/Tips/6.grpc/cpp/example1/Readme_zh.md)\
 [cmake案例](/Tips/6.grpc/cpp/example2/Readme_zh.md)\
-[makefile案例](/Tips/6.grpc/cpp/example3/readme_zh.md)
+[makefile案例](/Tips/6.grpc/cpp/example3/readme_zh.md)\
+[c包装客户端](/Tips/6.grpc/cpp/example4/Readme_zh.md)
+

@@ -66,5 +66,6 @@ Fundamentals knowledge about program. Here are some of the bugs、problems、tip
 
 [example](/Tips/6.grpc/cpp/example1/Readme.md)\
 [example with cmake](/Tips/6.grpc/cpp/example2/Readme.md)\
-[example with makefile](/Tips/6.grpc/cpp/example3/readme.md)
+[example with makefile](/Tips/6.grpc/cpp/example3/readme.md)\
+[example with c wrap client](/Tips/6.grpc/cpp/example4/Readme.md)
 
