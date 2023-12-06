@@ -52,10 +52,7 @@ Fundamentals knowledge about program. Here are some of the bugs、problems、tip
 ## 5. C code invoke C++ code
 
 + Wraps c++ code and call it as a library
-+ 
-+ 
-
-[Case demo1](/Tips/5.c_invoke_cpp/example1/readme.md)
+[Wrap example](/Tips/5.c_invoke_cpp/example1/readme.md)
 
 
 
@@ -63,9 +60,11 @@ Fundamentals knowledge about program. Here are some of the bugs、problems、tip
 
 ### 1）grpc for rust
 
-[Case demo1](/Tips/6.grpc/rust/example1/Readme.md)
+[example with rust](/Tips/6.grpc/rust/example1/Readme.md)
 
 ### 2）grpc for c++
 
-[Case demo2](/Tips/6.grpc/cpp/example1/)
+[example](/Tips/6.grpc/cpp/example1/Readme.md)
+[example with cmake](/Tips/6.grpc/cpp/example2/Readme.md)
+[example with makefile](/Tips/6.grpc/cpp/example3/readme.md)
 

@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   std::string target_str = absl::GetFlag(FLAGS_target);
   GreeterClient greeter(
       grpc::CreateChannel(target_str, grpc::InsecureChannelCredentials()));
-  std::string user("曹建超");
+  std::string user("xxxx");
   std::string reply = greeter.SayHello(user);
   std::cout << "服务端返回: " << reply << std::endl;
 

@@ -15,6 +15,8 @@
   - [4. 编译优化](#4-编译优化)
   - [5. C代码调用C++代码](#5-c代码调用c代码)
   - [6. Grpc](#6-grpc)
+    - [1）rust语言的grpc](#1rust语言的grpc)
+    - [2）c++语言的grpc](#2c语言的grpc)
 
 
 
@@ -62,4 +64,12 @@
 ## 6. Grpc
 
 
+### 1）rust语言的grpc
 
+[案例](/Tips/6.grpc/rust/example1/Readme_zh.md)
+
+### 2）c++语言的grpc
+
+[案例](/Tips/6.grpc/cpp/example1/Readme_zh.md)
+[cmake案例](/Tips/6.grpc/cpp/example2/Readme_zh.md)
+[makefile案例](/Tips/6.grpc/cpp/example3/readme_zh.md)
